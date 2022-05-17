@@ -1,0 +1,71 @@
+
+
+body{
+    background-color: orange;
+    background-image: url(imagen1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+    
+
+label {
+    display:block;
+    margin-top:20px;
+    letter-spacing:1px;
+}
+ 
+.principal {
+    display:block;
+    margin:0 auto;
+    width:600px;
+    color: #f1e2e2;
+    font-family:Arial;
+}
+ 
+form {
+    margin:0 auto;
+    width:400px;
+}
+    
+input, textarea {
+    width:380px;
+    height:27px;
+    background:#000000;
+    border:2px solid #f6f6f6;
+    padding:10px;
+    margin-top:5px;
+    font-size:10px;
+    color:#ffffff;
+}
+ 
+textarea {
+    height:150px;
+}
+ 
+#submit {
+    width:85px;
+    height:35px;
+    border:none;
+    margin-top:20px;
+    cursor: pointer;
+}
+
+footer {
+    color:#ffffff;
+}
+
+
+#caja2 {
+    color:#ffffff;
+}
+
+#caja3 {
+    text-align: center;
+}
+
+h1 {
+    color:#ffffff;
+    text-align: center;
+}
